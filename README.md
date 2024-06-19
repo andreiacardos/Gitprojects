@@ -1,1 +1,4 @@
 # Gitprojects
+
+
+#comando git pull
